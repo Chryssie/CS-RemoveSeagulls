@@ -6,7 +6,7 @@ namespace RemoveSeagulls
     {
         private Settings()
         {
-            Tag = "[ARIS] Remove Seagulls";
+            Tag = "Remove Seagulls [Fixed for v1.2+]";
         }
 
         private static readonly Settings _Instance = new Settings();
