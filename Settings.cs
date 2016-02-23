@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace RemoveSeagulls
+﻿namespace RemoveSeagulls
 {
     public sealed class Settings
     {
         private Settings()
         {
-            Tag = "Remove Seagulls [Fixed for v1.2+]";
+            Tag = "Remove Seagulls [Fixed for v1.3+]";
         }
 
         private static readonly Settings _Instance = new Settings();
